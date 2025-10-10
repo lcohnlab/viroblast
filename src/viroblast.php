@@ -101,7 +101,7 @@ flexible queries of multiple databases and user's datasets. <a href=http://bioin
 Bioinformatics 23(17):2334-2336.</a>
 </dl>
 <h3>Contact:</h3>
-<p>For any questions, bugs and suggestions, please send email to <a href="mailto:mullspt@uw.edu?subject=ViroBLAST">mullspt@uw.edu</a> and include a few sentences describing, briefly, the nature of your questions and include contact information.</p>
+<p>For any questions, bugs and suggestions, please send email to <a href="mailto:cohnlabsupport@fredhutch.org?subject=ViroBLAST">cohnlabsupport@fredhutch.org</a> and include a few sentences describing, briefly, the nature of your questions and include contact information.</p>
 </div>
 </div>
 	<div id="footer" align="center">
