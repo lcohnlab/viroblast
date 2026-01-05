@@ -32,7 +32,7 @@ RUN cpanm Email::Simple Email::Sender::Simple Email::Sender::Transport::SMTP
 
 RUN cpanm LWP::Simple Mozilla::CA
 
-RUN cpanm IO::Socket::SSL
+RUN cpanm --force IO::Socket::SSL
 
 RUN cpanm LWP::Protocol::https
 
