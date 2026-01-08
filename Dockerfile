@@ -37,7 +37,7 @@ RUN cpanm --force IO::Socket::SSL
 RUN cpanm LWP::Protocol::https
 
 # Set BLAST version (update this to the latest version as needed)
-ENV BLAST_VERSION=2.16.0
+ENV BLAST_VERSION=2.17.0
 
 # Download and install BLAST+
 RUN wget https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/${BLAST_VERSION}/ncbi-blast-${BLAST_VERSION}+-x64-linux.tar.gz \

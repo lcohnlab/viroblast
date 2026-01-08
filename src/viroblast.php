@@ -97,7 +97,7 @@ With the common features of other Blast tools, the ViroBLAST provides features l
 <p>Please cite the following paper if you use ViroBLAST:
 <dl>
 <dd>Deng W, Nickle DC, Learn GH, Maust B, and Mullins JI. 2007. ViroBLAST: A stand-alone BLAST web server for 
-flexible queries of multiple databases and user's datasets. <a href=http://bioinformatics.oxfordjournals.org/cgi/content/full/23/17/2334>
+flexible queries of multiple databases and user's datasets. <a href=https://academic.oup.com/bioinformatics/article/23/17/2334/261856>
 Bioinformatics 23(17):2334-2336.</a>
 </dl>
 <h3>Contact:</h3>
